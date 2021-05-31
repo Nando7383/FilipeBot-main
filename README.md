@@ -20,8 +20,8 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone https://github.com/admcauss-alt/Caussx
-> cd Caussx
+> git clone https://github.com/Nando7383/FilipeBot-main.git
+> cd FilipeBot-main
 > bash install.sh
 ```
 
